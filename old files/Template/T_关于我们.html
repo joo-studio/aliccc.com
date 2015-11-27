@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>关于我们-{Stl.SiteName}</title>
+    <stl:include file="@/include/css.html" />
+</head>
+
+<body role="document">
+    <stl:include file="@/include/header.html" />
+    <div class="container" role="main">
+        <!-- Main jumbotron for a primary marketing message or call to action -->
+        <div class="jumbotron">
+            <div class="banner">
+                <h1>{Channel.Title}</h1>
+                <img src="{Stl.SiteUrl}/assets/images/banner-txt.png" title="{Stl.SiteName}" alt="{Stl.SiteName}">
+            </div>
+        </div>
+
+        <div class="main-box">
+            <div class="panel panel-grey">
+                <div class="panel-body padding-none">
+                    <div class="row">
+                    <stl:contents order="AddDate">
+                      <stl:a title="{Content.Title}" target="_blank">
+                            <div class="col-sm-2">
+                                <div class="padding-content"><b><stl:content type="Title" wordNum="10" /></b>
+                                    <br><stl:content type="Summary" isClearTags="true" wordNum="20" /></div>
+                            </div>
+                        </stl:a>
+                     </stl:contents>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /container -->
+    <stl:include file="@/include/footer.html" />
+  <stl:include file="@/include/js.html" />
+</body>
+</html>

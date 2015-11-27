@@ -1,0 +1,13 @@
+markdown: rdiscount
+permalink: /content/:categories/:title
+url: http://www.aliccc.com
+description: Joozo.NET
+keywords: Joozo.NET
+author: Joozo
+copyright: copyright
+sitedescription: sitedescription
+SiteName: SiteName
+github: Joozo
+safe: true
+
+exclude: ['old files', 'Rakefile', 'old']
