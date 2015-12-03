@@ -27,19 +27,21 @@ title: Aliccc.com
             <div class="panel-heading">
                 <div class="pull-left">
                     <h3 class="panel-title">
-                        <a title="" target="_blank" id="{{ this_word | cgi_escape }}">{{ this_word }}
+                        <a title="{{ this_word }}" href="/{{ this_word }}/" target="_blank" id="{{ this_word | cgi_escape }}">{{ this_word }}
                         </a>
                         <span class="badge">{{ site.categories[this_word].size }}</span>
                     </h3>
                 </div>
                 <div class="pull-right text-right">
                     <ul class="rec-content hidden-xs">
-                    {% for post in site.categories[this_word] limit:8 %}{% if post.title != null %}
-                        <li>
+                    {% for post in site.categories[this_word] %}{% if post.title != null %}
+                        
                         {% if post.attr %}
+                        <li>
                         <a href="http://{{ post.title }}" target="_blank" style="color:#1ABC9C;">{{ post.name }}</a>
-                        {% endif %}
                         </li>
+                        {% endif %}
+                        
                     {% endif %}{% endfor %}
                     </ul>
                 </div>
