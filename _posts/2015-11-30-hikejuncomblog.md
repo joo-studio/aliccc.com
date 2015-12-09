@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "hikejun.com/blog/"
-categories: Organization
+categories: 前端组织
 tags: html
 name: hikejun
 ---

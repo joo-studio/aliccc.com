@@ -46,7 +46,7 @@ a:hover{text-decoration: none; color: inherit;}
 .badge { font-weight:400; background:#2ECC71;}
 .in-tips {display: inline-block;font-size: 0.3em;padding-left: 10px;}
 .in-tips span {font-style: italic; color:#27AE60;}
-.main-box .panel-title {color:#061127; }
+.main-box .panel-title {color:#061127; text-transform: capitalize;}
 @media only screen and (max-width : 767px) {
 .padding-none .padding-content {min-height: 20px;border-right:none;}
 .padding-none .row a:nth-child(n) .padding-content {border-bottom: 1px dotted #E5E5E5;}

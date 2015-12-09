@@ -2,7 +2,7 @@
 layout: post
 title: "www.ruanyifeng.com"
 categories:
-- Organization
+- 前端组织
 tags: 
 - web-front
 name: ruanyifeng

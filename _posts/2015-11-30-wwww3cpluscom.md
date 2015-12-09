@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "www.w3cplus.com"
-categories: Organization
+categories: 前端组织
 tags: html
 name: w3cplus
 ---

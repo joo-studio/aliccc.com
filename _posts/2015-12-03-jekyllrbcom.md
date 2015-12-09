@@ -2,7 +2,7 @@
 layout: post
 title: "jekyllrb.com"
 categories: 
-- Layout
+- 博客引擎
 tags: 
 - html
 name: 文档-jekyllrb

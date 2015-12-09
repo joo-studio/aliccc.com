@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "www.w3school.com.cn"
-categories: Organization
+categories: 前端组织
 tags: html
 name: w3school
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "www.sharejs.com"
-categories: Internal
+categories: 前端组织
 tags: html
 name: sharejs
 ---

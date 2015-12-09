@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "swordair.com"
-categories: Organization
+categories: 前端组织
 tags: html
 name: 葵中剑@剑空
 ---

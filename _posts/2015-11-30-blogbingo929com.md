@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "blog.bingo929.com"
-categories: Organization
+categories: 前端组织
 tags: html
 name: 彬Go
 ---

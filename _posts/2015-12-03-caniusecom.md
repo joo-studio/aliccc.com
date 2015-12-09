@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "caniuse.com"
-categories: Abroad
+categories: 工具应用
 tags: html
 name: Can I use
 attr: <i class="icon-hot">Hot</i>

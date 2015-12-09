@@ -2,7 +2,7 @@
 layout: post
 title: "lab.lepture.com/nico"
 categories: 
-- Layout
+- 网站布局
 tags: 
 - html
 name: 文档-nico

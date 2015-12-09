@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "jiongks.name"
-categories: Organization
+categories: 前端组织
 tags: html
 name: 囧克斯
 ---

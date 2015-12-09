@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "www.wufangbo.com"
-categories: Organization
+categories: 前端组织
 tags: html
 name: 武方博
 ---

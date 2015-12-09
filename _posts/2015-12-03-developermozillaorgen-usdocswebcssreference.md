@@ -2,7 +2,7 @@
 layout: post
 title: "developer.mozilla.org/en-US/docs/Web/CSS/Reference"
 categories: 
-- Layout
+- 网站布局
 tags: 
 - html
 name: CSS reference

@@ -2,7 +2,7 @@
 layout: post
 title: "www.qianduan.net"
 categories:
-- Organization
+- 前端组织
 tags: 
 - web-front
 name: 前端网络

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "www.csswinner.com/colorsearch/blue"
-categories: Abroad
+categories: 工具应用
 tags: html
 name: CSS画廊
 attr: <i class="icon-hot">Hot</i>
