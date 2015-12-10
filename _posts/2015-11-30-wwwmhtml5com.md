@@ -2,9 +2,9 @@
 layout: post
 title: "www.mhtml5.com"
 categories:
-- 前端组织
+- 社区组织
 tags: 
-- web-front
+- web
 name: mhtml5
 ---
 

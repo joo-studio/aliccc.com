@@ -1,0 +1,43 @@
+<script src="/assets/js/zeroclipboard.min.js"></script>
+<script type="text/javascript">
+$(function() {
+    function clipCallback(client) {
+        client.setText($.trim(this.innerHTML.replace('#', '')));
+
+        var parent = $(this).parents('li');
+        var pos = parent.position();
+        var tester = $('#tester');
+
+        if (parent.hasClass('white')) {
+            tester.addClass('white');
+        } else {
+            tester.removeClass('white');
+        }
+
+        tester.show().css({
+            opacity: 1,
+            left: pos.left,
+            top: pos.top
+        }).stop().animate({
+            opacity: 0,
+            top: '-=20'
+        }, function() {
+            $(this).hide();
+        });
+    }
+
+    $('.jo-c ul li').each(function() {
+        var color = $('span', this).text();
+        $(this).css('background', color);
+        var span = $('span', this);
+        var clip = new ZeroClipboard(span[0], {
+            moviePath: "/assets/js/zeroclipboard.swf"
+        });
+        clip.on('mousedown', clipCallback);
+
+        if (navigator.userAgent.indexOf('Firefox') != -1) {
+            $(clip.htmlBridge).css('opacity', 0);
+        }
+    });
+});
+</script>

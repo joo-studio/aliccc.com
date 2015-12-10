@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "blog.bingo929.com"
-categories: 前端组织
-tags: html
+categories: 社区组织
+tags: Blog
 name: 彬Go
 ---
 

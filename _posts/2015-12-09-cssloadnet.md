@@ -3,7 +3,8 @@ layout: post
 title: "cssload.net"
 categories:
 - 开发工具
-attr: <i class="icon-hot">Hot</i>
+tags: loading
+attr: Hot
 name: loading制作工具
 ---
 

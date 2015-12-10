@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "06wjin.sinaapp.com"
-categories: 前端组织
-tags: html
+categories: 社区组织
+tags: app
 name: 06wjin
 ---
 
-HTML5游戏
-<!--break-->
+HTML5游戏<!--break-->

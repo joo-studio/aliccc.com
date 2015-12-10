@@ -3,7 +3,8 @@ layout: post
 title: "codebeautify.org"
 categories:
 - 开发工具
-attr: <i class="icon-hot">Hot</i>
+attr: Hot
+tags: beauty
 name: Code Beautify
 ---
 

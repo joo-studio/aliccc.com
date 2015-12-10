@@ -4,7 +4,7 @@ title: "jekyllrb.com"
 categories: 
 - 博客引擎
 tags: 
-- html
+- Ruby
 name: 文档-jekyllrb
 ---
 

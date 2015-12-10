@@ -3,6 +3,7 @@ layout: post
 title: "imsky.github.io/holder"
 categories:
 - 开发工具
+tags: js
 name: 占位图-holder.js
 ---
 

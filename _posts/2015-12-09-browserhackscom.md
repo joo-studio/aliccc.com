@@ -3,7 +3,8 @@ layout: post
 title: "browserhacks.com"
 categories:
 - 开发工具
-attr: <i class="icon-hot">Hot</i>
+tags: browser
+attr: Hot
 name: 浏览器hack
 ---
 

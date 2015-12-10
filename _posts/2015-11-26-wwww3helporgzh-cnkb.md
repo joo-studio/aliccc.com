@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "www.w3help.org/zh-cn/kb/"
-categories: 前端组织
-tags: html
+categories: 社区组织
+tags: W3C
 name: w3help
-attr: <i class="icon-hot">Hot</i>
+attr: Hot
 ---
 
 系统的介绍某些知识点，帮助开发者正确理解该知识点的概念

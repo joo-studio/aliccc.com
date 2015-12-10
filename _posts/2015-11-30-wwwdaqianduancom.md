@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "www.daqianduan.com"
-categories: 前端组织
-tags: html
+categories: 社区组织
+tags: W3C
 name: Da前端
 ---
 

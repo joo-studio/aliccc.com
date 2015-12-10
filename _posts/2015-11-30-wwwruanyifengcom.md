@@ -2,11 +2,11 @@
 layout: post
 title: "www.ruanyifeng.com"
 categories:
-- 前端组织
+- 社区组织
 tags: 
-- web-front
+- Blog
 name: ruanyifeng
-attr: <i class="icon-hot">Hot</i>
+attr: Hot
 ---
 
-ruanyifeng
+ruanyifeng 的个人博客

@@ -3,6 +3,7 @@ layout: post
 title: "brackets.io"
 categories:
 - 开发工具
+tags: Tools
 name: Brackets.io
 ---
 

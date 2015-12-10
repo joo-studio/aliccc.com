@@ -18,6 +18,10 @@
     <!-- /container -->
     {% include footer.html %} 
     {% include js.html %}
+
+    {% if page.attr %}
+        {% include color.html %}
+    {% endif %}
 </body>
 
 </html>

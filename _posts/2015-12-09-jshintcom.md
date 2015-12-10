@@ -3,7 +3,8 @@ layout: post
 title: "jshint.com"
 categories:
 - 开发工具
-attr: <i class="icon-hot">Hot</i>
+tags: js
+attr: Hot
 name: JSHint
 ---
 

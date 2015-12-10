@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "www.wufangbo.com"
-categories: 前端组织
-tags: html
+categories: 社区组织
+tags: Blog
 name: 武方博
 ---
 
-css+xhtml+javascript=前端开发
-<!--break-->
+css+xhtml+javascript=前端开发<!--break-->

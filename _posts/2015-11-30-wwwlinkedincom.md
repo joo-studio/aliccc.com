@@ -4,8 +4,7 @@ title: "www.linkedin.com"
 categories:
 - 工具应用
 tags: 
-- tools
-- sns
+- Tools
 name: 社交-linkedin
 ---
 

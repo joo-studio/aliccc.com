@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "www.w3cfuns.com"
-categories: 前端组织
-tags: html
+categories: 社区组织
+tags: W3C
 name: w3school
 ---
 

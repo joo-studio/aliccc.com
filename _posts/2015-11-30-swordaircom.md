@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "swordair.com"
-categories: 前端组织
-tags: html
+categories: 社区组织
+tags: Blog
 name: 葵中剑@剑空
 ---
 
-Blog Logo 葵中剑@剑空 Just iifksp's blog
-<!--break-->
+Blog Logo 葵中剑@剑空 Just iifksp's blog<!--break-->

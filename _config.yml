@@ -1,7 +1,6 @@
 markdown: rdiscount
 permalink: /content/:categories/:title
 url: http://www.aliccc.com
-baseurl: http://aliccc.com
 description: Joozo.NET
 keywords: Joozo.NET
 author: Joozo
