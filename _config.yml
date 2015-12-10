@@ -10,4 +10,4 @@ SiteName: SiteName
 github: Joozo
 safe: true
 
-exclude: ['old files', 'Rakefile']
+exclude: ['old', 'Rakefile']
