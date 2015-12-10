@@ -8,7 +8,9 @@ title: 提交网站
 ```html
 	<div></div>
 ```
-
+<div class="container">
+<div class="row">
+<div class="col-md-6">	
 <div id="disqus_thread"></div>
 <script>
 /**
@@ -31,3 +33,24 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+</div>
+<div class="col-md-6">
+	<!-- 多说评论框 start -->
+	<div class="ds-thread" data-thread-key="888" data-title="提交网站" data-url="http://aliccc.com/channles/disqus/index.md"></div>
+<!-- 多说评论框 end -->
+<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"aliccc"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] 
+		 || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+	</script>
+<!-- 多说公共JS代码 end -->
+</div>
+</div></div>
