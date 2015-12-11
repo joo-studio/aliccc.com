@@ -2,7 +2,7 @@
 layout: post
 title: "www.linkedin.com"
 categories:
-- 工具应用
+- 其它工具
 tags: 
 - Tools
 name: 社交-linkedin

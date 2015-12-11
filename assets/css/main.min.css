@@ -72,7 +72,8 @@ a:hover {
 
 .padding-none .row .col-sm-2 {
     padding-right: 0;
-    padding-left: 0
+    padding-left: 0;
+    margin-bottom: -1px;
 }
 
 .padding-none .padding-content {
@@ -116,16 +117,12 @@ a:hover {
     white-space: nowrap;
     text-overflow: ellipsis;
     overflow: hidden;
+    text-transform: capitalize;
 }
 
-.padding-none .row a:nth-last-child(1) .padding-content,
-.padding-none .row a:nth-last-child(2) .padding-content,
-.padding-none .row a:nth-last-child(3) .padding-content,
-.padding-none .row a:nth-last-child(4) .padding-content,
-.padding-none .row a:nth-last-child(5) .padding-content,
-.padding-none .row a:nth-last-child(6) .padding-content {
+/*.padding-none .row a:nth-last-child(6) .padding-content {
     border-bottom: none;
-}
+}*/
 
 .padding-none .padding-content:a {
     color: #FFF;

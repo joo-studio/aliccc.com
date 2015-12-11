@@ -2,7 +2,7 @@
 layout: post
 title: "socialba.com"
 categories:
-- 工具应用
+- 其它工具
 tags: 
 - Tools
 name: 同步-SocialBa

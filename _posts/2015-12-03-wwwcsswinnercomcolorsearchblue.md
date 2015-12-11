@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "www.csswinner.com/colorsearch/blue"
-categories: 工具应用
+categories: 前端代码
 tags: CSS
 name: CSS画廊
 attr: Hot
