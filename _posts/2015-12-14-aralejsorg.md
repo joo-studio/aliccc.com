@@ -6,4 +6,4 @@ tags: js
 name: aralejs
 ---
 
-基于SeaJS和CMD规范，开放、简单、易用的前端解决方案。<!--break-->
+基于SeaJS和CMD规范，开放、简单、易用的前端<!--break-->解决方案。
