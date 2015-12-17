@@ -61,14 +61,14 @@ task :post do
   open(filename, 'w') do |post|
     post.puts "---"
     post.puts "layout: post"
-    post.puts "title: \"#{title.gsub(/-/,' ')}\""
-    post.puts "categories:"
-    post.puts "- "
-    post.puts "tags:"
-    post.puts "- "
-    post.puts ""
-    post.puts ""
+    post.puts "title: \"#{title.gsub(/-/,'-')}\""
+    post.puts "categories: 设计教程"
+    post.puts "tags: UI"
+    post.puts "name: "
     post.puts "---"
+    post.puts ""
+    post.puts ""
+    post.puts "<!--break-->"
   end
 end # task :post
 
