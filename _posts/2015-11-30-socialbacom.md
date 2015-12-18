@@ -4,8 +4,8 @@ title: "socialba.com"
 categories:
 - 其它工具
 tags: 
-- Tools
-name: 同步-SocialBa
+- sync
+name: SocialBa
 ---
 
 

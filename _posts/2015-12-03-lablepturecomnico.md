@@ -2,10 +2,10 @@
 layout: post
 title: "lab.lepture.com/nico"
 categories: 
-- 博客引擎
+- 构建工具
 tags: 
-- html
-name: 文档-nico
+- doc
+name: nico
 ---
 
 快速搭建静态化文档服务器

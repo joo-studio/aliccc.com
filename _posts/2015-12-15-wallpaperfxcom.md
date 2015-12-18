@@ -6,6 +6,7 @@ categories:
 tags:
 - picture
 attr: hot
+name: wallpaperfx
 ---
 
 Search through our gallery and find your<!--break--> favourite high resolution wallpapers for your desktop or mobile device. Check out Now our daily updated collection!
