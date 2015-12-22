@@ -9,5 +9,6 @@ sitedescription: sitedescription
 SiteName: SiteName
 github: Joozo
 safe: true
+blogurl: http://joozo.net
 
 exclude: ['old', 'Rakefile']
