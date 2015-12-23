@@ -15,8 +15,11 @@ layout: default
                         <div class="col-sm-2">
                             <div class="padding-content">
                                 <b>
+                                {% if post.tags %}
+                                    <i class="icon-tags">{{ post.tags }}</i>
+                                {% endif %}
                                 {% if post.attr %}
-                                {{ post.attr }}
+                                    <i class="icon-hot">{{ post.attr }}</i>
                                 {% endif %}
                                 {{ post.name }}
                                 </b>
