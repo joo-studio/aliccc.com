@@ -3,10 +3,21 @@ layout: post
 title: 提交网站
 ---
 
-
+<img src="{{ site.baseurl }}/assets/images/banner-txt.png">
 
 ```html
-	#在这里可以提交您的网站，哈哈,格式如下。
+在这里可以提交您的网站，格式如下
+
+---
+layout: post
+title: "www.css88.com"  #网站域名
+categories: 社区组织      #网站分类
+tags: Blog              #网站标签
+name: css88             #网站名称
+---
+
+专注前端开发，关注用户体验   #网站描述20字左右
+
 ```
 <div class="container">
 <div class="row">
