@@ -263,3 +263,9 @@ a:hover {
 .page-header h1 {
     font-family: "Poiret One"
 }
+.navbar-brand>img {
+    height: 39px;
+}
+.navbar-brand>img:hover {
+    transform: scale(2,2); 
+}
