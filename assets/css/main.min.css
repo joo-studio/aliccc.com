@@ -213,7 +213,7 @@ a:hover {
 
 .in-tips {
     display: inline-block;
-    font-size: 0.3em;
+    font-size: 0.5em;
     padding-left: 10px;
 }
 
@@ -241,17 +241,6 @@ a:hover {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 1199px) {
-    .panel-blue,
-    .panel-primary,
-    .panel-green,
-    .panel-orange,
-    .panel-success,
-    .panel-purple,
-    .panel-warning,
-    .panel-danger {
-        height: 120px;
-        overflow: hidden;
-    }
     .padding-none .padding-content {
         height: 101px;
         overflow: hidden;
