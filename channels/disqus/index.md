@@ -3,7 +3,7 @@ layout: post
 title: 提交网站
 ---
 
-<img src="{{ site.baseurl }}/assets/images/banner-txt.png">
+<div class="text-center"><img src="{{ site.baseurl }}/assets/images/banner-txt.png"></div>
 
 ```html
 在这里可以提交您的网站，格式如下
