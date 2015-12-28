@@ -18,7 +18,7 @@ backTop('gotop');
 
 // Tip: avoid this ton of code using AniJS ;)
 
-var element = $('#square');
+var element = $('.wobble');
 
 // when mouseover execute the animation
 element.mouseover(function(){
