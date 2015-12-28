@@ -6,6 +6,4 @@ tags: CSS3
 name: 请，CSS3
 attr: new
 ---
-
-在线查看CSS3的属性效果，直观，直观！
-<!--break-->
+在线查看CSS3的属性效果，直观，直观，直观！<!--break-->
