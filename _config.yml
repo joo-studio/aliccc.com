@@ -1,14 +1,13 @@
 markdown: rdiscount
 permalink: /content/:categories/:title
-url: http://www.aliccc.com
-description: Joozo.NET
-keywords: Joozo.NET
+url: http://aliccc.com
+description: ALICCC互联网网址导航站是为国内的朋友们倾力打造的互联网资源聚合平台，包含了前端人脉圈子、博客、CSS/JS/HTML资源教程、高清大图、社区、产品经理站、工具、前端框架、界面设计、网站模版、设计教程等内容。
+keywords: 博客导航,前端工具,CSS3动画,JS框架,UED博客,产品经理,信息图录,UI设计,框架,开发工具,前端代码,灵感创意,界面设计,社区组织,网站模版,设计教程,高清图库
 author: Joozo
-copyright: copyright
-sitedescription: sitedescription
-SiteName: SiteName
+copyright: Copyright √ 2016 By Joozo,Jekyll,Github
+SiteName: ALICCC互联网网址导航站
 github: Joozo
 safe: true
 blogurl: http://joozo.net
 
-exclude: ['old', 'Rakefile']
+exclude: ['Rakefile']
