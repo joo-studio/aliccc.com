@@ -15,3 +15,17 @@ backTop=function (btnId){
     function set(){btn.style.display=(d.scrollTop+b.scrollTop>100)?'block':"none"}
 };
 backTop('gotop');
+
+// Tip: avoid this ton of code using AniJS ;)
+
+var element = $('.wobble');
+// when mouseover execute the animation
+element.mouseover(function(){
+  // the animation starts
+  element.toggleClass('wobble animated');
+  // do something when animation ends
+  element.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(e){
+   // trick to execute the animation again
+    $(e.target).removeClass('wobble animated');
+  });
+});
