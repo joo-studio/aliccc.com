@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "alpha.wallhaven.cc/wallpaper/random"
+title: "alpha.wallhaven.cc/latest"
 categories: 高清图库
 tags: pic
 name: Wallhaven
