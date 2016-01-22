@@ -353,3 +353,8 @@ a:hover {
   -webkit-animation-name: wobble;
   animation-name: wobble
 }
+
+.nice-bg {
+    color: #fff;
+    background-image: linear-gradient(160deg,#65d165 10%,#57d39c 80%);
+}
