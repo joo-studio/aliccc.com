@@ -62,7 +62,7 @@ task :post do
     post.puts "---"
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/-/,'-')}\""
-    post.puts "categories: "
+    post.puts "categories: 前端好工具"
     post.puts "tags: "
     post.puts "name: "
     post.puts "---"

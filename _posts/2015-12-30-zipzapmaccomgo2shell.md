@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "zipzapmac.com/go2shell"
-categories: MAC好软件
+categories: 前端好工具
 tags: mac
 name: go2shell
 attr: hot
