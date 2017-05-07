@@ -6,4 +6,4 @@ tags: ui
 name: Semantic UI
 ---
 
-Semantic UI User Interface | is the language<!--break--> of the web.
+Semantic UI User Interface - is the language<!--break--> of the web.
