@@ -6,4 +6,4 @@ tags: js
 name: Wavesjs
 ---
 
-Waves-Click effect inspired by Google's Material Design<!--break-->
+Waves-Click effect inspired by Google's <!--break-->Material Design
