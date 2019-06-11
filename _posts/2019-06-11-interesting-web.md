@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "www.theuselessweb.com"
-categories: 有趣儿的网站
+categories: 其它工具
 tags: Icon
 name: 有料、有趣、好玩！
 ---
