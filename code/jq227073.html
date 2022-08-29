@@ -1,0 +1,159 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>css座位桌牌布局代码 (原创)-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
+<style>
+body {
+	background-color:#999;
+	color:white;
+	margin:0;
+	padding:0;
+}
+/**
+ * 包裹层分三部分，左边，中间，右边
+ */
+.wrapper {
+	width:80%;
+	display:flex;
+	margin:0 auto;
+	text-align:center;
+}
+.wrapper-center {
+	flex:3;
+	position:relative;
+	text-align:center;
+}
+.left {
+	flex:1;
+}
+.right {
+	flex:1;
+}
+/**
+ * 左边
+ */
+.blue-ul-column {
+	display:flex;
+	flex-direction:column;
+	justify-content:space-around;
+	height:300px;
+	list-style:none;
+	position:relative;
+	top:50%;
+	transform:translate(0,-50%);
+	margin:10px 0;
+	padding-inline-start:0px;
+}
+.blue-ul-column-left {
+	padding-inline-start:40px;
+}
+.bluesky-left {
+	display:inline-block;
+	background:url(https://www.jq22.com/img/cs/500x500-2.png) no-repeat right -10px top 0 / 40px 40px,url(https://www.jq22.com/img/cs/500x500-1.png) no-repeat right 40px top 0 / 40px 40px;
+	text-align:right;
+	padding-top:10px;
+	padding-right:100px;
+	cursor:pointer;
+	margin:5px 0;
+	padding-bottom:10px;
+}
+/**
+ * 右边
+ */
+.bluesky-right {
+	display:inline-block;
+	background:url(https://www.jq22.com/img/cs/500x500-2.png) no-repeat 0px 0 / 40px 40px,url(https://www.jq22.com/img/cs/500x500-1.png) no-repeat 50px 0 / 40px 40px;
+	text-align:left;
+	padding-top:10px;
+	padding-left:100px;
+	cursor:pointer;
+	margin:5px 0;
+	padding-bottom:10px;
+}
+/**
+ * 中间
+ */
+.blue-ul {
+	display:flex;
+	list-style:none;
+	width:100%;
+	margin:0 auto;
+	padding-inline-start:0;
+}
+.bluesky-top {
+	width:100%;
+	background:url(https://www.jq22.com/img/cs/500x500-2.png) no-repeat center 100px / 40px 40px,url(https://www.jq22.com/img/cs/500x500-1.png) no-repeat center 40px / 40px 40px;
+	text-align:center;
+	padding-top:10px;
+	height:130px;
+	cursor:pointer;
+}
+.bluesky-down {
+	width:100%;
+	background:url(https://www.jq22.com/img/cs/500x500-1.png) no-repeat center 70px / 40px 40px,url(https://www.jq22.com/img/cs/500x500-2.png) no-repeat center 10px / 40px 40px;
+	text-align:center;
+	padding-top:120px;
+	cursor:pointer;
+}
+/**
+ * 中间桌子背景
+ */
+.desk {
+	width:100%;
+	height:300px;
+	background:url(https://www.jq22.com/img/cs/500x300-2.png) no-repeat center center / 100% 100%;
+	margin-top:-50px;
+	margin-bottom:-60px;
+	margin-left:-30px;
+	padding-right:70px;
+	position:relative;
+	z-index:-1;
+}
+</style>
+</head>
+<body>
+<div class="wrapper">
+    <div class="left">
+        <ul class="blue-ul-column blue-ul-column-left">
+            <li class="bluesky-left">1</li>
+        </ul>
+    </div>
+    <div class="wrapper-center">
+        <ul class="blue-ul">
+            <li class="bluesky-top">3</li>
+            <li class="bluesky-top">5</li>
+            <li class="bluesky-top">7</li>
+            <li class="bluesky-top">9</li>
+            <li class="bluesky-top">11</li>
+            <li class="bluesky-top">13</li>
+            <li class="bluesky-top">15</li>
+            <li class="bluesky-top">17</li>
+        </ul>
+        <div class="desk"></div>
+        <ul class="blue-ul">
+            <li class="bluesky-down">2</li>
+            <li class="bluesky-down">4</li>
+            <li class="bluesky-down">6</li>
+            <li class="bluesky-down">8</li>
+            <li class="bluesky-down">10</li>
+            <li class="bluesky-down">12</li>
+            <li class="bluesky-down">14</li>
+            <li class="bluesky-down">16</li>
+        </ul>
+    </div>
+    <div class="right">
+        <ul class="blue-ul-column blue-ul-column-right">
+            <li class="bluesky-right">18</li>
+            <li class="bluesky-right">19</li>
+        </ul>
+    </div>
+</div>
+
+<script>
+
+</script>
+
+</body>
+</html>
